@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\vs work\10.6\10.6\source.cpp(13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+e:\vs work\10.6\10.6\source.cpp(18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  10.6.vcxproj -> E:\VS WORK\10.6\Debug\10.6.exe
+  10.6.vcxproj -> E:\VS WORK\10.6\Debug\10.6.pdb (Partial PDB)
