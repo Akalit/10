@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\vs work\10.1\10.1\source.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+  10.1.vcxproj -> E:\VS WORK\10.1\Debug\10.1.exe
+  10.1.vcxproj -> E:\VS WORK\10.1\Debug\10.1.pdb (Partial PDB)
